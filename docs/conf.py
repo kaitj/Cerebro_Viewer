@@ -35,7 +35,7 @@ author = "Sina Mansour L."
 extensions = [
     "sphinx_copybutton",
     "sphinx_design",
-    "sphinx_gallery.gen_gallery",
+    "sphinx_gallery.load_style",
     "sphinx_reredirects",
     "sphinxarg.ext",
     "sphinx.ext.autodoc",

@@ -19,3 +19,13 @@ general/main
 
 tutorial/surface
 ```
+
+```{toctree}
+:caption: Gallery
+:name: gallery
+:hidden:
+:maxdepth: 2
+
+examples/README.md
+
+```
